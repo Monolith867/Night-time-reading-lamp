@@ -21,7 +21,7 @@ x1 10k Ohm Resistor
 Wires
 
 
-# Enviroments
+# Environments
 
 Windows 10
 
