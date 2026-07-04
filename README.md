@@ -11,9 +11,9 @@ x1 220 Ohm Resistor
 x1 10k Ohm Resistor
 Wires
 
-#Enviroments
+# Enviroments
 Windows 10
 Arduino IDE
 
-#Possible Future Improvements
+# Possible Future Improvements
 Adding a 7-segment LED display to showcase the current intensity level of the light
