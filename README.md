@@ -5,13 +5,21 @@ A system composed of 5 white LED lights arranged on a breadboard. It can be turn
 # Bill of Materials
 
 x1 Mini-Breadboard
+
 x1 ESP32
+
 x1 Button
+
 x5 White LEDs
+
 x2 2k Ohm Resistors
+
 x1 220 Ohm Resistor
+
 x1 10k Ohm Resistor
+
 Wires
+
 
 # Enviroments
 
